@@ -1,0 +1,6 @@
+framework module Pods_groupbuyAssist {
+  umbrella header "Pods-groupbuyAssist-umbrella.h"
+
+  export *
+  module * { export * }
+}
